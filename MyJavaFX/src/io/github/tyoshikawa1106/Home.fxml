@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane prefHeight="300" prefWidth="400"
+	fx:controller="io.github.tyoshikawa1106.HomeController"
+	xmlns="http://javafx.com/javafx/8"
+	xmlns:fx="http://javafx.com/fxml/1">
+	<center>
+		<Label fx:id="label1" text="Hello JavaFX!" BorderPane.alignment="CENTER" />
+	</center>
+	<bottom>
+		<Button fx:id="button1" onAction="#doClick" text="Click!" BorderPane.alignment="CENTER" />
+	</bottom>
+</BorderPane>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;io.github.tyoshikawa1106.Home&apos; to &apos;MyApp&apos;&#x0A;- Original project: &apos;JavaFX&apos;&#x0A;- Original element: &apos;io.github.tyoshikawa1106.Home&apos;&#x0A;- Renamed element: &apos;io.github.tyoshikawa1106.MyApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Home&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;io.github.tyoshikawa1106{Home.java[Home" matchStrategy="1" name="MyApp" qualified="false" references="true" similarDeclarations="false" stamp="1460384820466" textual="false" version="1.0"/>
+</session>
